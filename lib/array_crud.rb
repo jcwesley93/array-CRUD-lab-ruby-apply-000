@@ -1,13 +1,13 @@
 def create_an_empty_array
-  
+  []
 end
 
 def create_an_array
-  
+  [1104, 1106, 1029, 1027]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  create_an_array << 0921
 end
 
 def add_element_to_start_of_array(array, element)
